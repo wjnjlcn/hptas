@@ -1,0 +1,4 @@
+.idea/*
+hptas.egg-info/*
+build/*
+dist/*
